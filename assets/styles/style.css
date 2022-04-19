@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+
+.container {
+    margin-top: 15vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+img {
+    height: 381px;
+}
+
+input {
+    color: #6c63ff !important;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    padding: 20px;
+    margin: 0;
+    width: 100vw;
+    text-align: center;
+}
